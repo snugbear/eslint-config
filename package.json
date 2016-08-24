@@ -1,0 +1,19 @@
+{
+  "name": "@snugbear/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint settings for Snugbears",
+  "main": "index.js",
+  "repository": "snugbear/eslint-config",
+  "keywords": [
+    "eslint",
+    "snugbear"
+  ],
+  "peerDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-standard": "^5.3.5",
+    "eslint-config-standard-react": "^3.0.0",
+    "eslint-plugin-promise": "^2.0.0",
+    "eslint-plugin-react": "6.0.0",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
